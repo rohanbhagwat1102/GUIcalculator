@@ -1,2 +1,2 @@
 # GUIcalculator
-This is a GUI-Calculator mini project using python and Tkinter library.
+This is a GUI-Calculator mini project using Python and Tkinter library.
